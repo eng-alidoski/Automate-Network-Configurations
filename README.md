@@ -1,2 +1,2 @@
 # DevNet
-Automate Network and Security configurationd
+Automate Network and Security configurations
